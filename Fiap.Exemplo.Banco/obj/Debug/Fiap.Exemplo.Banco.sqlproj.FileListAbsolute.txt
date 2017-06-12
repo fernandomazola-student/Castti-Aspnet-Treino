@@ -1,0 +1,5 @@
+D:\Fiap.Exemplo.Web\Fiap.Exemplo.Banco\bin\Debug\Fiap.Exemplo.Banco.dacpac
+D:\Fiap.Exemplo.Web\Fiap.Exemplo.Banco\bin\Debug\Fiap.Exemplo.Banco.dll
+D:\Fiap.Exemplo.Web\Fiap.Exemplo.Banco\bin\Debug\Fiap.Exemplo.Banco.pdb
+D:\Fiap.Exemplo.Web\Fiap.Exemplo.Banco\obj\Debug\Fiap.Exemplo.Banco.dll
+D:\Fiap.Exemplo.Web\Fiap.Exemplo.Banco\obj\Debug\Fiap.Exemplo.Banco.pdb
